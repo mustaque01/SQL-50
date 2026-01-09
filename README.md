@@ -33,6 +33,9 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 25 | Product Sales Analysis III | Window min year per product, keep first-year rows | [day25.sql](day25.sql) |
 | 26 | Classes More Than 5 Students | Group courses by `class` and keep those with 5+ students | [day26.sql](day26.sql) |
 | 27 | Followers Count | Count `follower_id` per `user_id`, sorted by user | [day27.sql](day27.sql) |
+| 28 | Biggest Single Number | Keep numbers appearing once and return their maximum | [day28.sql](day28.sql) |
+| 29 | Customers Who Bought All Products | Customers whose distinct purchases cover every product | [day29.sql](day29.sql) |
+| 30 | Number of Employees Who Report to Each Employee | For each manager, count reports and average their age (rounded) | [day30.sql](day30.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
