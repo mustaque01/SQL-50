@@ -36,6 +36,12 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 28 | Biggest Single Number | Keep numbers appearing once and return their maximum | [day28.sql](day28.sql) |
 | 29 | Customers Who Bought All Products | Customers whose distinct purchases cover every product | [day29.sql](day29.sql) |
 | 30 | Number of Employees Who Report to Each Employee | For each manager, count reports and average their age (rounded) | [day30.sql](day30.sql) |
+| 31 | Primary Department for Each Employee | Keep the primary department when flagged; if only one department exists, return it | [day31.sql](day31.sql) |
+| 32 | Triangle Judgement | Check triangle inequality per row and label rows as triangles | [day32.sql](day32.sql) |
+| 33 | Consecutive Numbers | Use window lags to find numbers appearing 3 times in a row | [day33.sql](day33.sql) |
+| 34 | Product Price at a Given Date | Latest price on/before 2019-08-16 per product, defaulting to 10 when missing | [day34.sql](day34.sql) |
+| 35 | Last Person to Fit in the Bus | Accumulate weights by turn and pick the last person within the 1000 limit | [day35.sql](day35.sql) |
+| 36 | Count Salary Categories | Categorize incomes into low/average/high and count each bucket | [day36.sql](day36.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
