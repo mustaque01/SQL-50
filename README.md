@@ -55,6 +55,7 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 47 | Second Highest Salary | Take max salary below the overall max, return as `SecondHighestSalary` | [day47.sql](day47.sql) |
 | 48 | Group Sold Products by the Date | Per `sell_date`, count distinct products and list them alphabetically | [day48.sql](day48.sql) |
 | 49 | List the Products Ordered in a Period | Sum February 2020 units per product and keep totals ≥ 100 | [day49.sql](day49.sql) |
+| 50 | Valid Email | Keep emails starting with a letter and matching the `@leetcode.com` pattern | [day50.sql](day50.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
